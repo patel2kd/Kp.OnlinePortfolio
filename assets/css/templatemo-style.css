@@ -117,7 +117,7 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #fff;
+    color: white;
     width: 100%;
     transition: all 0.5s;
     border-top: none;
@@ -243,7 +243,7 @@ html {
 }
 
 .menu-toggle {
-  color: #fff;
+  color: white;
   cursor: pointer;
   font-size: 25px;
   position: fixed;
@@ -258,7 +258,7 @@ html {
     top: 0;
     left: 0;
     color: white;
-    background-color: #fff;
+    background-color: black;
     width: 60px;
     height: 60px;
     text-align: center;
